@@ -24,15 +24,11 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/your-username/cafeteria-management-system.git
-    ```
-2. **Import into IDE:** Import the project into Eclipse or any IDE that supports Java.
-3. **Set Up Database:**
-    - Install MySQL Server.
-    - Create a database named `cafeteria_db`.
-    - Execute the SQL script provided in the `database.sql` file.
-4. **Configure Tomcat Server:**
+
+2. **Configure Tomcat Server:**
     - Download and configure Apache Tomcat.
     - Deploy the project to the server.
-5. **Run the Application:**
+3. **Run the Application:**
     - Start the server.
     - Access the application at `http://localhost:8080/CafeteriaManagementSystem`
+    - 4. Open the file index.jsp
