@@ -23,7 +23,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/cafeteria-management-system.git
+    git clone https://github.com/vishnuchaithanya1/cafeteria_management_system.git
 
 2. **Configure Tomcat Server:**
     - Download and configure Apache Tomcat.
@@ -31,4 +31,4 @@ Follow these steps to set up and run the project:
 3. **Run the Application:**
     - Start the server.
     - Access the application at `http://localhost:8080/CafeteriaManagementSystem`
-    - 4. Open the file index.jsp
+    - Open the file index.jsp
